@@ -4,7 +4,7 @@ import React, { useEffect, useState } from 'react';
 //date
 const currentDate = new Date();
 
-const date1 = new Date("2023-03-20");
+const date1 = new Date("2023-03-27");
 const date2 = new Date(date1.getFullYear(), date1.getMonth(), date1.getDate() + 1);
 const date3 = new Date(date1.getFullYear(), date1.getMonth(), date1.getDate() + 2);
 const date4 = new Date(date1.getFullYear(), date1.getMonth(), date1.getDate() + 3);
